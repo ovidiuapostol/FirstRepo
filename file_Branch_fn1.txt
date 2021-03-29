@@ -1,2 +1,3 @@
 first update in file in the Branch fn1
 -updated the file after creation: 28.03 - Hour 20:39
+-updated while the master branch was checked out: 29.03 -Hour 09:16
