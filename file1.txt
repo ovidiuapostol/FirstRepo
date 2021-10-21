@@ -2,3 +2,4 @@ My first file
 - update file1 for the first time
 - update on master branch. 29.03 Hour 10:44
 - update again on master branch, after it was merged with fn1. So this update will make the file not to be in sync anymore with the file on fn1
+- branch fn does not exist anymore. Branch develop was added. file was modified on branch develop
